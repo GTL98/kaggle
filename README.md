@@ -7,3 +7,5 @@ Repositório destinado a armazenar os Notebooks feitos para a plataforma Kaggle.
     - Meu Notebook: https://www.kaggle.com/guilhermetrevisan/an-lise-de-dados-ml-para-insufici-ncia-card-aca
 
 - Breast Cancer Wisconsin (Diagnostic) Data Set: https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+
+  - Meu Notebook: https://www.kaggle.com/guilhermetrevisan/previs-o-c-ncer-de-mama-95-9
