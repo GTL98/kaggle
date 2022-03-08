@@ -9,3 +9,7 @@ Repositório destinado a armazenar os Notebooks feitos para a plataforma Kaggle.
 - Breast Cancer Wisconsin (Diagnostic) Data Set: https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
   - Meu Notebook: https://www.kaggle.com/guilhermetrevisan/previs-o-c-ncer-de-mama-95-9
+
+- Early Diabetes Classification: https://www.kaggle.com/andrewmvd/early-diabetes-classification
+
+  - Meu Notebook: https://www.kaggle.com/guilhermetrevisan/previs-o-de-diabetes-98-9
