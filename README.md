@@ -13,3 +13,7 @@ Repositório destinado a armazenar os Notebooks feitos para a plataforma Kaggle.
 - Early Diabetes Classification: https://www.kaggle.com/andrewmvd/early-diabetes-classification
 
   - Meu Notebook: https://www.kaggle.com/guilhermetrevisan/previs-o-de-diabetes-98-9
+
+- Hepatitis C Prediction Dataset: https://www.kaggle.com/fedesoriano/hepatitis-c-dataset
+
+  - Meu Notebook: https://www.kaggle.com/guilhermetrevisan/previs-o-hepatite-c-100
